@@ -35,6 +35,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Trushid&limit=5&theme=flat&combine_all_yearly_contributions=true)
-
-### 🔝 MyGitHub Contributions
-! .[Snake animation].(https://github.com/Trushid/Trushid/blob/output/github-contribution-grid-snake.svg)
