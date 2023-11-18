@@ -1,6 +1,7 @@
+![MasterHead](https://cdn.dribbble.com/userupload/7725814/file/original-ad34e5a3d587a8a90b6586de67710225.gif)
 <h1 align="center">Hi 👋, I'm Trushid Hatmode</h1>
 <h3 align="center">A passionate Devops Engineer from India. I work in corporate IT Sector.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.globalsign.com/application/files/8716/8451/0374/Devsecops_GIF.gif">
+<img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trushid&label=Profile%20views&color=0e75b6&style=flat" alt="trushid" /> </p>
 
@@ -19,8 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/trushid hatmode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="trushid hatmode" height="30" width="40" /></a>
-<a href="(https://www.linkedin.com/in/trushid-hatmode-a4a587200/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/trushid-hatmode-a4a587200/" height="30" width="40" /></a>
-<a href="https://instagram.com/about_trushid_hatmode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="about_trushid_hatmode" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/trushid-hatmode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/trushid-hatmode" height="30" width="40" /></a>
+<a href="https://instagram.com/about_trushid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/about_trushid" height="30" width="40" /></a>
 <a href="https://hashnode.com/@trushidh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@trushidh" height="30" width="40" /></a>
 </p>
 
@@ -32,6 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trushid&show_icons=true&locale=en" alt="trushid" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trushid&" alt="trushid" /></p>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Trushid&limit=5&theme=flat&combine_all_yearly_contributions=true)
