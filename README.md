@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.dribbble.com/userupload/7725814/file/original-ad34e5a3d587a8a90b6586de67710225.gif)
+![MasterHead](https://www.globalsign.com/application/files/8716/8451/0374/Devsecops_GIF.gif)
 <h1 align="center">Hi 👋, I'm Trushid Hatmode</h1>
 <h3 align="center">A passionate Devops Engineer from India. I work in corporate IT Sector.</h3>
 <img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
