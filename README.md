@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>   
 <p align="left">
-<a href="https://twitter.com/trushid hatmode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="trushid hatmode" height="30" width="40" /></a>
+<a href="https://x.com/TrushidH?t=eK6ZzfRdZ3TTT2yqjDzkNQ&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="trushid hatmode" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/trushid-hatmode-a4a587200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/trushid-hatmode-a4a587200/" height="30" width="40" /></a>
 <a href="https://instagram.com/about_trushid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/about_trushid" height="30" width="40" /></a>
 <a href="https://hashnode.com/@trushidh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@trushidh" height="30" width="40" /></a>
