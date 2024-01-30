@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **DevSecOps & Cloud Devops**
 
-- 📝 I regularly write articles on [https://trushid.hashnode.dev/series/trushid](https://trushid.hashnode.dev/series/trushid)
+- 📝 I regularly write articles on [https://trushid.hashnode.dev/series/trushid](https://trushid.hashnode.dev/)
 
 - 💬 Ask me about **Devops**
 
