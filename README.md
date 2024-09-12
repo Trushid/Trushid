@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Devops**
 
-- 📫 How to reach me **trushidh@gmail.com**
+- 📫 How to reach me ****
 
 <h3 align="left">Connect with me:</h3>   
 <p align="left">
