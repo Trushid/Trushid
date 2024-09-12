@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **DevSecOps & Cloud Devops**
 
-- 📝 I regularly write articles on [https://trushid.hashnode.dev](https://trushid.hashnode.dev/)
+- 📝 I regularly write articles on [https://trushid.hashnod](https://trushid.hashnode.dev/)
 
 - 💬 Ask me about **Devops**
 
@@ -19,10 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>   
 <p align="left">
-<a href="https://x.com/TrushidH?t=eK6ZzfRdZ3TTT2yqjDzkNQ&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="trushid hatmode" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/trushid-hatmode-a4a587200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/trushid-hatmode-a4a587200/" height="30" width="40" /></a>
-<a href="https://instagram.com/about_trushid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/about_trushid" height="30" width="40" /></a>
-<a href="https://hashnode.com/@trushidh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@trushidh" height="30" width="40" /></a>
+<a href="https://x.com/Trushi?t=eK6ZzfRdZ3TTT2yqjDzkNQ&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="trushid hatmode" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/trushid-hatmodl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/trushid-hatmode-a4a587200/" height="30" width="40" /></a>
+<a href="https://instagram.com/trushil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/about_trushid" height="30" width="40" /></a>
+<a href="https://hashnode.com/@trushil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@trushidh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
