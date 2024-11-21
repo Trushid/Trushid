@@ -1,5 +1,5 @@
 ![MasterHead](https://www.globalsign.com/application/files/8716/8451/0374/Devsecops_GIF.gif)
-<h1 align="center">Hi 👋, I'm Rrushid Hatmode</h1>
+<h1 align="center">Hi 👋, I'm Trushid Hatmode</h1>
 <h3 align="center">A passionate Devops Engineer from India. I work in corporate IT Sector.</h3>
 <img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **DevSecOps & Cloud Devops**
 
-- 📝 I regularly write articles on [https://Rrushid.hashnod](https://Rrushid.hashnode.dev/)
+- 📝 I regularly write articles on [https://Trushid.hashnod](https://Trushid.hashnode.dev/)
 
 - 💬 Ask me about **Devops**
 
